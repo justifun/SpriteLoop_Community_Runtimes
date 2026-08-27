@@ -1,4 +1,4 @@
-# SpriteLoop_Community_Runtimes
+# SpriteLoop Community Runtimes
 Community Made Game Engine Runtimes for the SpriteLoop Animation Software
 
 [Construct 3](https://github.com/justifun/SpriteLoop_Community_Runtimes/spriteloop_construct3)
